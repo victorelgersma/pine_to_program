@@ -1,0 +1,3 @@
+{
+"response_code"=>0,
+ "results"=>[{"type"=>"multiple", "difficulty"=>"medium", "category"=>"Entertainment: Books", "question"=>"By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?", "correct_answer"=>"The Artful Dodger", "incorrect_answers"=>["Fagin", "Bull&rsquo;s-eye", "Mr. Fang"]}, {"type"=>"multiple", "difficulty"=>"medium", "category"=>"Entertainment: Books", "question"=>"Which of these books was NOT written by the Czech author Karel Čapek?", "correct_answer"=>"Journey to the Center of the Earth", "incorrect_answers"=>["The War with the Newts", "R.U.R. (Rossum&#039;s Universal Robots)", "Dashenka, or the Life of a Puppy"]}]}
